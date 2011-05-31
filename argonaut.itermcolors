@@ -23,18 +23,18 @@
 	<key>Ansi 10 Color</key>
 	<dict>
 		<key>Blue Component</key>
-		<real>0.67277026176452637</real>
+		<real>0.35646489677720017</real>
 		<key>Green Component</key>
-		<real>1</real>
+		<real>0.88189995290000001</real>
 		<key>Red Component</key>
-		<real>0.80941480398178101</real>
+		<real>0.67126059688058637</real>
 	</dict>
 	<key>Ansi 11 Color</key>
 	<dict>
 		<key>Blue Component</key>
-		<real>0.79964905977249146</real>
+		<real>0.25792301594327316</real>
 		<key>Green Component</key>
-		<real>1</real>
+		<real>0.82281720845913986</real>
 		<key>Red Component</key>
 		<real>1</real>
 	</dict>
@@ -43,27 +43,27 @@
 		<key>Blue Component</key>
 		<real>1</real>
 		<key>Green Component</key>
-		<real>0.8651459813117981</real>
+		<real>0.5733030673510271</real>
 		<key>Red Component</key>
-		<real>0.70732665061950684</real>
+		<real>0.00053359762918048226</real>
 	</dict>
 	<key>Ansi 13 Color</key>
 	<dict>
 		<key>Blue Component</key>
-		<real>0.99652093648910522</real>
+		<real>0.92307692307692313</real>
 		<key>Green Component</key>
-		<real>0.61330586671829224</real>
+		<real>0.37417232689266022</real>
 		<key>Red Component</key>
-		<real>1</real>
+		<real>0.60504487800788187</real>
 	</dict>
 	<key>Ansi 14 Color</key>
 	<dict>
 		<key>Blue Component</key>
-		<real>1</real>
+		<real>0.94094775504779782</real>
 		<key>Green Component</key>
-		<real>0.87289351224899292</real>
+		<real>1</real>
 		<key>Red Component</key>
-		<real>0.87489628791809082</real>
+		<real>0.4042010611351281</real>
 	</dict>
 	<key>Ansi 15 Color</key>
 	<dict>
@@ -131,18 +131,18 @@
 	<key>Ansi 8 Color</key>
 	<dict>
 		<key>Blue Component</key>
-		<real>0.48627451062202454</real>
+		<real>0.26696832579185525</real>
 		<key>Green Component</key>
-		<real>0.48627451062202454</real>
+		<real>0.26696832579185525</real>
 		<key>Red Component</key>
-		<real>0.48627451062202454</real>
+		<real>0.26696832579185525</real>
 	</dict>
 	<key>Ansi 9 Color</key>
 	<dict>
 		<key>Blue Component</key>
-		<real>0.69019609689712524</real>
+		<real>0.24923402424592656</real>
 		<key>Green Component</key>
-		<real>0.7137255072593689</real>
+		<real>0.15470406080870669</real>
 		<key>Red Component</key>
 		<real>1</real>
 	</dict>
